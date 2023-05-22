@@ -1,5 +1,6 @@
 REGISTRY ?= docker.io
-REPOSITORY ?= paulbouwer
+REPOSITORY ?= bernaz7
+
 IMAGE_VERSION ?= $(shell cat src/app/package.json | jq -r .version)
 IMAGE_MAJOR_VERSION = $(shell echo "$(IMAGE_VERSION)" | cut -d '.' -f1 )
 IMAGE_MINOR_VERSION = $(shell echo "$(IMAGE_VERSION)" | cut -d '.' -f2 )

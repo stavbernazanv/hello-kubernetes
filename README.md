@@ -1,6 +1,6 @@
 # Hello Kubernetes!
 
-[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/paulbouwer/hello-kubernetes?sort=semver)](https://hub.docker.com/repository/docker/paulbouwer/hello-kubernetes) [![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/paulbouwer/hello-kubernetes?sort=semver)](https://hub.docker.com/repository/docker/paulbouwer/hello-kubernetes) [![Docker Pulls](https://img.shields.io/docker/pulls/paulbouwer/hello-kubernetes)](https://hub.docker.com/repository/docker/paulbouwer/hello-kubernetes)
+[![Docker Image Version (latest semver)](https://img.shields.io/docker/v/bernaz7/hello-kubernetes?sort=semver)](https://hub.docker.com/repository/docker/bernaz7/hello-kubernetes) [![Docker Image Size (latest semver)](https://img.shields.io/docker/image-size/bernaz7/hello-kubernetes?sort=semver)](https://hub.docker.com/repository/docker/bernaz7/hello-kubernetes) [![Docker Pulls](https://img.shields.io/docker/pulls/bernaz7/hello-kubernetes)](https://hub.docker.com/repository/docker/bernaz7/hello-kubernetes)
 
 This container image can be deployed on a Kubernetes cluster. It runs a web app, that displays the following:
 
