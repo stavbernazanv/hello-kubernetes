@@ -1,6 +1,6 @@
 {
   "name": "hello-kubernetes",
-  "version": "1.10.4",
+  "version": "1.10.5",
   "description": "Hello Kubernetes!",
   "author": "Paul Bouwer",
   "license": "MIT",
